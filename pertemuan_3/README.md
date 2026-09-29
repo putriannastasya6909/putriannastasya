@@ -1,6 +1,8 @@
-# Pertemuan 3: Perulangan (Loop)
+# Pertemuan 3: Perulangan (Loop) dan Kondisi Percabangan
 
 ## Topik Pembelajaran
+
+### Part 1: Perulangan (Loop)
 - Perulangan dengan For
 - Perulangan dengan While
 - Break dan Continue
@@ -9,7 +11,15 @@
 - Fungsi Range
 - Perulangan dengan Kondisi
 
-## Daftar File
+### Part 2: Kondisi Percabangan (If-Else)
+- Statement If
+- Statement Else
+- Statement Elif
+- Nested If
+- Operator Logika (and, or, not)
+- Ternary Operator
+
+## Daftar File - Part 1: Perulangan
 
 ### 1. 01_perulangan_for.py
 Mempelajari perulangan for untuk iterasi.
@@ -56,6 +66,38 @@ Teknik untuk keluar dari nested loop.
 ### 15. 15_fungsi_list_for.py
 Menggunakan for loop dengan list.
 
+## Daftar File - Part 2: Kondisi Percabangan
+
+### 16. 01_keyword_if.py
+Mempelajari statement if untuk kondisi tunggal.
+
+### 17. 02_keyword_else.py
+Mempelajari statement else sebagai alternatif jika kondisi if tidak terpenuhi.
+
+### 18. 03_keyword_elif.py
+Mempelajari statement elif untuk kondisi bercabang multiple.
+
+### 19. 04_kondisi_bercabang_nested.py
+Mempelajari nested if-else (if dalam if).
+
+### 20. 05_ternary_operator.py
+Mempelajari ternary operator sebagai short-hand if-else.
+
+### 21. 06_ternary_nilai_balik.py
+Menggunakan ternary operator untuk menentukan nilai.
+
+### 22. 07_sebaris_ternary.py
+Menggunakan if-else dalam satu baris.
+
+### 23. 08_operator_logika_and_or_not.py
+Mempelajari operator logika (and, or, not).
+
+### 24. 09_nested_operator_logika.py
+Menggabungkan multiple kondisi dengan operator logika.
+
+### 25. 10_oneline_if_else.py
+Menggunakan list comprehension dengan if-else.
+
 ## Konsep Kunci
 - ✓ For Loop dan While Loop
 - ✓ Break dan Continue
@@ -63,7 +105,13 @@ Menggunakan for loop dengan list.
 - ✓ Iterasi pada Struktur Data
 - ✓ Range Function
 - ✓ Loop dengan Kondisi
+- ✓ If, Else, Elif
+- ✓ Nested Conditionals
+- ✓ Ternary Operator
+- ✓ Logical Operators
+- ✓ Boolean Logic
 
-## Catatan Pertemuan Sebelumnya
+## Catatan
 - Pertemuan 1 (2 minggu lalu): Variabel dan Fungsi Dasar
 - Pertemuan 2 (1 minggu lalu): Tipe Data dan Operator
+- Pertemuan 3 (minggu ini): Perulangan dan Kondisi Percabangan
